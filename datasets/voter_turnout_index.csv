@@ -1,4 +1,4 @@
-Country,Election type,Year,Voter Turnout,Total vote,Registration,VAP Turnout,Voting age population,Population
+Country,Election_type,Year,Voter_Turnout,Total_vote,Registration,VAP_Turnout,Voting_age_population,Population
 Afghanistan,Parliamentary,2018,45.23 %,"4,000,000 ","8,843,151 ",21.81 %,"18,340,292 ","34,940,837 "
 Afghanistan,Presidential,2019,19.00 %,"1,824,401 ","9,600,000 ",9.63 %,"18,938,369 ","35,780,458 "
 Albania,Parliamentary,2017,46.76 %,"1,614,479 ","3,452,324 ",68.50 %,"2,356,975 ","3,047,987 "
